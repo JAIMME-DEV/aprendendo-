@@ -1,0 +1,46 @@
+.titulo{
+    padding: 15px;
+    margin: 30px;
+    border: solid 6px rgb(17, 93, 225);
+    font-size: 80px;
+    color: mediumpurple;
+}
+
+.sub-titulo{
+    padding: 15px;
+    margin: 30px;
+    border: solid 3px rgba(17, 225, 34);
+    font-size: 50px;
+    }
+
+#titulo-3{
+    font-size: 30px;
+    color: blue;
+}
+
+.definicao{
+    color: rgb(42, 0, 113);
+    font-size: 20px;
+}
+
+.paragrafo-1-pag{
+    margin: 20px;
+    color: #825de7;
+    font-size: 20px;
+}
+
+.lista{
+    margin: 50px 30px;
+    padding: 20px 10px;
+    font-size: 18px;
+    background-color: aquamarine;
+    color:crimson ;
+}
+
+.exemplo-id{
+    margin: 40px 25px;
+    padding: 15px 10px;
+    font-size: 18px;
+    background-color: cadetblue;
+    color: coral;
+}
